@@ -1,0 +1,6 @@
+framework module Pods_DesafioApp {
+  umbrella header "Pods-DesafioApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
